@@ -1,0 +1,11 @@
+DevOps-Documents : https://github.com/ashokitschool/DevOps-Documents.git
+kubernates :  https://github.com/ashokitschool/kubernetes_manifest_yml_files.git
+
+maven-web-app: https://github.com/ashokitschool/maven-web-app.git
+
+ashokitschool/ashokit_weekend_workshops:kafka:  https://github.com/ashokitschool/ashokit_weekend_workshops.git
+
+spring-boot-docker-app:  https://github.com/ashokitschool/spring-boot-docker-app.git
+
+
+
